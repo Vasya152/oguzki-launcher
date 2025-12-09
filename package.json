@@ -94,8 +94,8 @@
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "Vasya152",
+                "repo": "oguzki-public"
             }
         ],
         "directories": {
